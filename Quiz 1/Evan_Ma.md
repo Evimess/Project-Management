@@ -11,6 +11,6 @@ I am a junior studying information science plus data science with minors in comp
 
 | **Current Organizations**  | **Why I joined** |
 | --------- | ----- | ------------ |
-| Illinois Business Consulting | Want to improve my presentation skills and work with clients towards a successful project  |
-| Illini Mentoring Program | Want to help kids in the U-C area develop their reading and math skills |
-| Center for Health Informatics | Want to make meaningful data modeling contributions towards misinformation in the AI in Infodemic Management project  | 
+| Illinois Business Consulting  | Want to improve my presentation skills and work with clients towards a successful project  |
+| Illini Mentoring Program  | Want to help kids in the U-C area develop their reading and math skills  |
+| Center for Health Informatics  | Want to make meaningful data modeling contributions towards misinformation in the AI in Infodemic Management project  | 
